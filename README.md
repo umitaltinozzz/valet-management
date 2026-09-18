@@ -2,12 +2,14 @@
 
 **Smart Valet Management Platform for Restaurants & Businesses — Turkey**
 
-[FastAPI](https://fastapi.tiangolo.com/)
-[React](https://react.dev/)
-[TypeScript](https://www.typescriptlang.org/)
-[PostgreSQL](https://www.postgresql.org/)
-[Docker](https://www.docker.com/)
-[License: MIT](./LICENSE)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
+![Status](https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge)
 
 ---
 
